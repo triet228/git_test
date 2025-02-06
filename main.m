@@ -11,7 +11,7 @@ Debug = 0;
 
 Swept_angle = 30;
 
-AR = 5;
+AR = 7;
 AR_max = 20;
 AR_step_size = 1;
 
